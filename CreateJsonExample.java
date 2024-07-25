@@ -8,6 +8,8 @@ import java.nio.charset.Charset;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
+// 새 내용 추가
+
 public class CreateJsonExample {
 	public static void main(String[] args) throws IOException{
 		
@@ -46,5 +48,3 @@ public class CreateJsonExample {
 	}
 }
 
-
-// 새로운 내용을 추가합니다.
